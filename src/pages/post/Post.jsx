@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import { Nav } from '../../components/nav/Nav';
 import { Card } from '../../components/card/Card';
 
 export const Post = () => {
