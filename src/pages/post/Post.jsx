@@ -68,7 +68,6 @@ export const Post = () => {
       <div className="flex justify-center items-center h-full">
         <div className="w-[1400px] h-[900px] bg-white/85 rounded-2xl shadow-xl">
           <div className="w-full h-full rounded-2xl grid grid-cols-4">
-            <Nav />
             <main className="col-span-3 rounded-br-2xl rounded-tr-2xl p-5 bg-gray-50">
               <h2 className="text-3xl mb-2">Publicaciones</h2>
               <section id='section-post' className='flex flex-col gap-5 overflow-y-auto h-[790px] p-2 py-4'>
